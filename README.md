@@ -1,4 +1,4 @@
-# Web-Audio-Keyboard
+# Web-Audio-Synth
 
 Here is a synth I wrote using Web Audio API. 
 Use the keyboard to make sound. 
